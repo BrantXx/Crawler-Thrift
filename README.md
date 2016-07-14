@@ -30,5 +30,7 @@ https://thrift.apache.org/docs/install/
       - ``` java -cp "lib/java/build/lib/*:lib/java/build:." Server ```
     - Java Client
       - ``` java -cp "lib/java/build/lib/*:lib/java/build:." Client ```
+    - Java Client(List)
+      - ``` java -cp "lib/java/build/lib/*:lib/java/build:." ClientList ```
     - PHP Client
       - ``` php Client.php ```
